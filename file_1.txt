@@ -11,3 +11,5 @@ Edit in VSC
 2023 - edit in VSC
 2026 - edit in GitHub
 2104 - edit in VSC
+MONDAY
+Edit in Notepad++
